@@ -1,5 +1,3 @@
-# autoregistration for uc davis schedule builder
-
 this is a python script that automates class registration on uc davis schedule builder using selenium.  
 it requires chromedriver and google chrome to be installed with matching versions.
 
