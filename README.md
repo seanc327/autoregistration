@@ -7,7 +7,7 @@ it requires chromedriver and google chrome to be installed with matching version
 1. ensure your environment is properly set up
    - install the latest version of selenium (`pip install selenium`).
    - ensure chromedriver matches your google chrome version.
-2. configure the initial variables in the script
+2. configure the initial variables in the script (replace [])
 3. complete duo mobile authentication beforehand to avoid login issues
 4. prevent your computer from sleeping while the script is running.
 5. close and quit any open chrome browsers before running the script.
